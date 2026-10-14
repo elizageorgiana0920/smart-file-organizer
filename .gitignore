@@ -1,0 +1,17 @@
+# PyCharm
+.idea/
+
+# Virtual environment
+.venv/
+venv/
+
+# Test files
+sample_files/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs
+*.log
